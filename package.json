@@ -13,6 +13,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "buefy": "^0.6.6",
     "vue": "^2.5.2"
   },
   "devDependencies": {
